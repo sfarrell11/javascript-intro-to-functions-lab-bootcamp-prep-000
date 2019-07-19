@@ -16,16 +16,16 @@ function sayHiToGrandma(string){
   if (string.toLowerCase() === string)
   return "I CAN'T HEAR YOU" 
 }
-{return string ("YES INDEED!") if string.toUpperCase())
-}
-{return string ("I love you, too") if string ("I love you, too")
-}
-{return string ("I love you, too") if string ("I love you, too")
-}
-{return string ("YES INDEED!") if string.toUpperCase())
-}
-{return string ("I love you, too") if string ("I love you, too")
-}
-{return string ("I love you, too") if string ("I love you, too")
-}
+// {return string ("YES INDEED!") if string.toUpperCase())
+// }
+// {return string ("I love you, too") if string ("I love you, too")
+// }
+// {return string ("I love you, too") if string ("I love you, too")
+// }
+// {return string ("YES INDEED!") if string.toUpperCase())
+// }
+// {return string ("I love you, too") if string ("I love you, too")
+// }
+// {return string ("I love you, too") if string ("I love you, too")
+// }
 
